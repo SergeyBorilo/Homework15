@@ -1,0 +1,15 @@
+F:\TeachingHillel\Homework15\Library\Library.Application\bin\Debug\net8.0\Library.Application.deps.json
+F:\TeachingHillel\Homework15\Library\Library.Application\bin\Debug\net8.0\Library.Application.dll
+F:\TeachingHillel\Homework15\Library\Library.Application\bin\Debug\net8.0\Library.Application.pdb
+F:\TeachingHillel\Homework15\Library\Library.Application\bin\Debug\net8.0\Library.Core.dll
+F:\TeachingHillel\Homework15\Library\Library.Application\bin\Debug\net8.0\Library.Core.pdb
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\Library.Application.csproj.AssemblyReference.cache
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\Library.Application.AssemblyInfoInputs.cache
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\Library.Application.AssemblyInfo.cs
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\Library.Application.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\Library..D137A66B.Up2Date
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\Library.Application.dll
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\refint\Library.Application.dll
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\Library.Application.pdb
+F:\TeachingHillel\Homework15\Library\Library.Application\obj\Debug\net8.0\ref\Library.Application.dll
